@@ -14,3 +14,7 @@
 
 - Launch **server.py** on attacker side and note TCP Sequence/Acknowledge number
 - Launch **client.py** on victim side from the RCE to hijack TCP sessions and bypass firewall
+
+## Example
+
+![POC](https://raw.githubusercontent.com/YRazafim/Byjack/main/POC.png)
